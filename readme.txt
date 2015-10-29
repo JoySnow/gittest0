@@ -1,3 +1,7 @@
 why you want to read me? 
 Are you mad?
-Waht the  what?
+<<<<<<< HEAD
+=======
+
+what did you say?
+>>>>>>> fea
